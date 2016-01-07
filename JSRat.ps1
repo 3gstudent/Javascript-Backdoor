@@ -20,20 +20,20 @@ $Server = '192.168.174.131' #Listening IP. Change This.
 
 function Receive-Request 
 {
-   param
-   (      
-      $Request
-   )
-   $output = ""
-   $size = $Request.ContentLength64 + 1   
-   $buffer = New-Object byte[] $size
-   do
-   {
-      $count = $Request.InputStream.Read($buffer, 0, $size)
-      $output += $Request.ContentEncoding.GetString($buffer, 0, $count)
-   } until($count -lt $size)
-   $Request.InputStream.Close()
-   write-host $output
+   	param
+   	(      
+      	$Request
+   	)
+   	$output = ""
+   	$size = $Request.ContentLength64 + 1   
+   	$buffer = New-Object byte[] $size
+   	do
+   	{
+	 	$count = $Request.InputStream.Read($buffer, 0, $size)
+      		$output += $Request.ContentEncoding.GetString($buffer, 0, $count)
+   	} until($count -lt $size)
+   	$Request.InputStream.Close()
+   	write-host $output
 }
 
 $listener = New-Object System.Net.HttpListener
