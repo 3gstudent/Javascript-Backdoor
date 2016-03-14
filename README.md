@@ -1,5 +1,12 @@
 # Javascript-Backdoor
+
+
+It is my mistake of naming and the accurate name of this should be JSRat.
+
+
 Learn from  Casey Smith @subTee
+
+
 https://gist.github.com/subTee/f1603fa5c15d5f8825c0
 ---
 
