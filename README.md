@@ -1,4 +1,4 @@
-# Javascript-Backdoor
+# Javascript-Backdoor(JSRat)
 
 
 It is my mistake of naming and the accurate name of this should be JSRat.
