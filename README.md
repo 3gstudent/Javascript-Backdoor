@@ -8,6 +8,15 @@ Learn from  Casey Smith @subTee
 
 
 https://gist.github.com/subTee/f1603fa5c15d5f8825c0
+
+###Some blogs about it:
+
+
+http://en.wooyun.io/2016/02/04/42.html
+
+
+http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html
+
 ---
 
 		[+] Fix the time-out bug and some other bugs.
