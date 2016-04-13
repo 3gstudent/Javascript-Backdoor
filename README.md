@@ -26,7 +26,7 @@ https://github.com/subTee/PoshRat
 
 https://github.com/Hood3dRob1n/JSRat-Py
 
-### Update description:
+### Update:
 
 		[+] Fix the time-out bug and some other bugs.
 		[+] Get rid of the cmd black box.
