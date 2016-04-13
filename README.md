@@ -32,3 +32,4 @@ https://github.com/Hood3dRob1n/JSRat-Py
 		[+] Get rid of the cmd black box.
 		[+] Hide the "systeminfo" black box.
 		[-] Leave a bug in Upload and Download Mode.
+		[+] Add code to work behind a proxy server.
