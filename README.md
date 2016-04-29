@@ -33,3 +33,4 @@ https://github.com/Hood3dRob1n/JSRat-Py
 		[+] Hide the "systeminfo" black box.
 		[-] Leave a bug in Upload and Download Mode.
 		[+] Add code to work behind a proxy server.
+		[+] Add the way of using sct to start it.
