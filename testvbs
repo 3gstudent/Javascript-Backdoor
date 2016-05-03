@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<package>
+<component id="testVBS">
+
+<script language="VBScript">
+<![CDATA[
+MsgBox 1,1,1
+]]>
+</script>
+
+</component>
+</package>
