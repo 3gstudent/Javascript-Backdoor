@@ -18,6 +18,9 @@ http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html
 http://en.wooyun.io/2016/02/04/42.html
 
 
+http://en.wooyun.io/2016/04/23/Use_SCT_to_Bypass_Application_Whitelisting_Protection.html
+
+
 ###Other nice github:
 
 
@@ -34,3 +37,4 @@ https://github.com/Hood3dRob1n/JSRat-Py
 		[-] Leave a bug in Upload and Download Mode.
 		[+] Add code to work behind a proxy server.
 		[+] Add the way of using sct to start it.
+		[+] Add the way of using wsc to start it.
