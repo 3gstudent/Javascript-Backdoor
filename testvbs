@@ -5,7 +5,7 @@
 
 <script language="VBScript">
 <![CDATA[
-MsgBox 1,1,1
+MsgBox "a"
 ]]>
 </script>
 
