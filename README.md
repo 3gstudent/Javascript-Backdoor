@@ -11,12 +11,15 @@ https://gist.github.com/subTee/f1603fa5c15d5f8825c0
 
 ### Blog about it:
 
+《JavaScript Backdoor》
 
 http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html
 
+《JavaScript Phishing》
 
 http://en.wooyun.io/2016/02/04/42.html
 
+《Use SCT to Bypass Application Whitelisting Protection》
 
 http://en.wooyun.io/2016/04/23/Use_SCT_to_Bypass_Application_Whitelisting_Protection.html
 
